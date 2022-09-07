@@ -1,0 +1,74 @@
+﻿@model WebApp_BotoneraLozanoSAC.ViewModels.UsuarioLogin
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<br />
+
+<h4 class="text-center"style="color:white;margin-left:6%">Iniciar sesión  </h4>
+
+<hr />
+
+<div class="row justify-content-center ">
+    <img  width="20%" height="20%"  src="~/vector-users-icon.jpg" style="border-radius: 50%; margin-top:50px;" />
+    
+    <div class="col-md-5 mt-4">
+        <form asp-action="Login">
+             <div style="color:white">
+          <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+              <div class="form-group">
+                <label for="correo">Correo</label>
+                <input asp-for="correo" class="form-control" placeholder="Ingrese su correo electrónico" />
+                <span asp-validation-for="correo" class="text-danger"></span>
+            </div>
+              <div class="form-group">
+                <label for="Contrasena">Contraseña</label>
+                 <div class="input-group">
+                <input id="txtPassword" asp-for="Contrasena"type="Password" class="form-control" placeholder="Ingrese su contraseña"  />
+                <div class="input-group-append">
+                <button id="show_password" class="btn btn-primary" type="button" onclick="mostrarPassword()"> <span class="fa fa-eye-slash icon"></span> </button>
+                </div>
+                <span asp-validation-for="Contrasena" class="text-danger"></span>            
+                @ViewData["mensaje"] 
+            </div>
+            <div class="form-group d-flex justify-content-between-">
+                <input type="submit" value="Ingresar" class="btn btn-outline-light btn-lg mt-5" />
+                <div style="margin-left:50%">
+                <a asp-action="Registrar" class="btn btn-outline-light btn-lg mt-5">Crear cuenta</a>
+              </div>
+            </div >
+            <br />
+            <div style="margin-left:20%">
+              <a asp-action="Verificar">¿Olvidaste tu contraseña? Ingresa Aquí</a>
+              </div>
+              </div>
+        </form>
+</div>
+</div>
+<script type="text/javascript">
+function mostrarPassword(){
+		var cambio = document.getElementById("txtPassword");
+		if(cambio.type == "password"){
+			cambio.type = "text";
+			$('.icon').removeClass('fa fa-eye-slash').addClass('fa fa-eye');
+		}else{
+			cambio.type = "password";
+			$('.icon').removeClass('fa fa-eye').addClass('fa fa-eye-slash');
+		}
+	} 
+
+    </Script>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

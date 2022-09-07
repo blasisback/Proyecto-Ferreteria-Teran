@@ -1,0 +1,130 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Usuario
+
+@{
+    ViewData["Title"] = "Registro_Usuarios";
+}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Mantenimiento</a></li>
+        <li class="breadcrumb-item"><a asp-action="Index">Usuarios</a></li>
+        <li class="breadcrumb-item"><a href="#">Registrar</a></li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+              Registrar Usuarios
+            </div>
+             <div class="card-body">
+
+                 @if (ViewBag.user==1)
+{
+    <div class="alert alert-danger" role="alert">
+     El Correo ya tiene un usuario registrado!!
+</div>
+}
+
+        <form asp-action="Create" class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group col-6">
+                <label asp-for="Nombres" class="control-label font-weight-bold"></label>
+                <input asp-for="Nombres"  placeholder="Escribir un nombre" class="form-control" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Apellidos" class="control-label font-weight-bold"></label>
+                <input asp-for="Apellidos" placeholder="Escribir apellido"  class="form-control" />
+                <span asp-validation-for="Apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Correo" class="control-label font-weight-bold"></label>
+                <input asp-for="Correo"  placeholder="Escribir un correo" class="form-control" />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Clave" class="control-label font-weight-bold"></label>
+                 <div class="input-group">
+                <input id="txtPassword"  asp-for="Clave"  placeholder="Escribir una clave " class="form-control" type="password"/>
+                 <div class="input-group-append">
+                <button id="show_password" class="btn btn-primary" type="button" onclick="mostrarPassword()"> <span class="fa fa-eye-slash icon"></span> </button>
+                </div>
+                <span asp-validation-for="Clave" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="IdRol" class="control-label font-weight-bold">Rol</label>
+                <select asp-for="IdRol" class="form-select form-select-sm model"  asp-items="ViewBag.IdRol"></select>
+            </div>
+            
+            <div class="form-group col-6">
+                <label asp-for="TipoDocumento" class="control-label font-weight-bold">Tipo de Documento</label>
+                <select class="form-select form-select-sm model"  asp-for="TipoDocumento">
+                    <option value="DNI">DNI</option>
+                    <option value="Carnet Extranjeria">Carnet Extranjeria</option>
+                    <option value="RUC">RUC</option>
+                </select>
+                <span asp-validation-for="TipoDocumento" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="NumeroDocumento" class="control-label font-weight-bold">Número Documento</label>
+                <input asp-for="NumeroDocumento" placeholder="Escribir un numero documento"  class="form-control" />
+                <span asp-validation-for="NumeroDocumento" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Direccion" class="control-label font-weight-bold">Dirección</label>
+                <input asp-for="Direccion"  placeholder="Escribir una direccion"  class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Telefono" class="control-label font-weight-bold">Teléfono/Celular</label>
+                <input asp-for="Telefono"  placeholder="Escribir teléfono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+              <div class="form-group col-6">
+                <label asp-for="Activo" class="control-label font-weight-bold"></label>
+                <select class="form-select form-select-sm model" asp-for="Activo">
+                    <option value="True">Activo</option>
+                    <option value="False">No Activo</option>
+                </select>
+                <span asp-validation-for="Activo" class="text-danger"></span>
+            </div>
+             <div class="form-group d-flex justify-content-between-">
+                  <a asp-action="Index" class="btn btn-outline-info btn-lg mt-5">Cancelar</a> 
+                
+                         <div style="margin-left : 80%">
+                    <input type="submit" value="Registrar" class="btn btn-outline-info btn-lg mt-5"  />
+                    </div>
+            </div>
+        </form>
+        </div>
+        </div>
+        </div>
+        </div>
+        </body>
+        <script type="text/javascript">
+function mostrarPassword(){
+		var cambio = document.getElementById("txtPassword");
+		if(cambio.type == "password"){
+			cambio.type = "text";
+			$('.icon').removeClass('fa fa-eye-slash').addClass('fa fa-eye');
+		}else{
+			cambio.type = "password";
+			$('.icon').removeClass('fa fa-eye').addClass('fa fa-eye-slash');
+		}
+	} 
+
+    </Script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

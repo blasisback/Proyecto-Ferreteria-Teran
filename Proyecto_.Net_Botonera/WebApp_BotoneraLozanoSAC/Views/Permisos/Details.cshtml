@@ -1,0 +1,40 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Permisos
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<body  >
+<h1>Detalles del Permiso</h1>
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Permisos</a></li>
+        <li class="breadcrumb-item"><a href="#">Detalles</a></li>
+    </ol>
+</nav>
+<hr />
+<div>
+    <dl class="row align-content-center">
+        <dt class="col-sm-5 text-center text-light bg-dark ">
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+        <dt class="col-sm-5 text-center text-light bg-dark">
+            @Html.DisplayNameFor(model => model.FechaRegistro)
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+        <dt class="col-sm-5 text-center text-light bg-dark">
+            @Html.DisplayNameFor(model => model.IdRolNavigation)
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.IdRolNavigation.IdRol)
+        </dd>
+    </dl>
+</div>
+</body>

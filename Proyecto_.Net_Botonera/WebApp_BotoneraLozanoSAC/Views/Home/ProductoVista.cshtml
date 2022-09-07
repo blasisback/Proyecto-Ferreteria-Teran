@@ -1,0 +1,43 @@
+﻿@model  WebApp_BotoneraLozanoSAC.Models.Producto
+    
+
+@{
+    ViewData["Title"] = "Producto";
+}
+<body>
+    
+    <div class="img-fluid">
+        <img src="@Html.DisplayFor(model => model.ImagenUrl)" class="img-thumbnail">
+    </div>
+    <div class="a3">
+        <div class="card" style="width: 22rem;">
+
+            <div class="card-body">
+                <h5 class="card-title">@Html.DisplayFor(model => model.Nombre)</h5>
+                <p class="card-text">
+                    <ul>
+                        <li>@Html.DisplayFor(model => model.Descripcion)</li>
+                        
+                    </ul>
+                </p>
+            </div>
+            <form>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><p class="aa">Precio: </p></p><h1 class="Precio" id="txtPrecio">$619.99</h1></li>
+                </ul>
+                <div class="card-body">
+                    </p>
+                    <div>
+                      
+                    <button asp-action="Agregar" asp-controller="Home" class="btn-success" asp-route-id="@Html.DisplayFor(model => model.IdProducto)">Agregar</button>
+                       
+                        </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+</body>
+
+
+

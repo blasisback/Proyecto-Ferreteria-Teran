@@ -1,0 +1,79 @@
+﻿@model WebApp_BotoneraLozanoSAC.ViewModels.UsuarioVerficacion
+
+@{
+    ViewData["Title"] = "Verificar";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<body>
+
+<div style="margin-top:3%" class="row justify-content-center ">
+  <div class="row justify-content-center ">
+    <img  width="62%" height="60%"  src="~/vector-users-icon.jpg" style="border-radius: 50%; margin-top:80px;" />
+    </div>
+    <div class="col-md-6 mt-4">
+      
+        <form asp-action="Verificar" class="formulario ">
+            <div class="row"  style="color:white">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row col-10">
+                   
+                         <div class="form-group col-6">
+                <label asp-for="Nombres" class="control-label text-light"></label>
+                <input asp-for="Nombres" class="form-control" placeholder="Ingrese su nombre" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Apellidos" class="control-label text-light"></label>
+                <input asp-for="Apellidos" class="form-control" placeholder="Ingrese su apellido" />
+                <span asp-validation-for="Apellidos" class="text-danger"></span>
+           
+            </div>
+            </div>
+              <div class="row col-10">
+                  <div class="form-group col-6">
+                        <label asp-for="TipoDocumento" class="control-label">Tipo Documento</label>
+                        <select class="form-control " asp-for="TipoDocumento">
+                            <option value="DNI">DNI</option>
+                            <option value="Carnet Extranjeria">Carnet Extranjeria</option>
+                            <option value="RUC">RUC</option>
+                        </select>
+                        <span asp-validation-for="TipoDocumento" class="text-danger"></span>
+                    </div>
+           
+            <div class="form-group col-6">
+                <label asp-for="NumeroDocumento" class="control-label text-light">Número Documento</label>
+                <input asp-for="NumeroDocumento" class="form-control" placeholder="Ingrese su número de documento"/>
+                <span asp-validation-for="NumeroDocumento" class="text-danger"></span>
+            </div>
+            </div>
+            <div class="row col-10">
+              <div class="form-group col-6">
+                <label asp-for="Correo" class="control-label text-light"></label>
+                <input asp-for="Correo" class="form-control" placeholder="Ingrese su correo registrado"/>
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6" >
+                <label asp-for="Telefono" class="control-label text-light">Teléfono</label>
+                <input asp-for="Telefono" class="form-control" placeholder="Ingrese su teléfono" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            </div>
+            </div>
+             <div class="form-group d-flex justify-content-between">
+
+                   <input type="submit" value="Validar"  class="btn btn-outline-info btn-lg mt-5" />
+                    <div class="col-5 text">
+                    <a asp-action="Login" class="btn btn-outline-info btn-lg mt-5">Cancelar</a>
+                    </div>
+                </div>
+            
+            </form>
+
+            </div>
+            </div>
+</body>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}0

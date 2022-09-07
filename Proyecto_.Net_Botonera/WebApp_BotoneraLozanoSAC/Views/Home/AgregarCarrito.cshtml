@@ -1,0 +1,59 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Carrito
+@{
+    ViewData["Title"] = "AgregarCarrito";
+   
+}
+<body style="background-image:url(@ViewData["Imagen"]);background-size:30%;
+    background-position:10%;
+    background-origin:padding-box;
+    background-repeat: no-repeat;
+
+    min-height: 100%;">
+    <br />
+
+    @if (ViewBag.Sucess == 0)
+    {
+        <div class="alert alert-danger danger-dismissible fade show" role="alert">
+            <strong>Se debe agregar la cantidad deseada</strong>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
+    }
+
+    @if (ViewBag.Sucess == 2)
+    {
+        <div class="alert alert-danger danger-dismissible fade show" role="alert">
+            <strong>Este producto ya existe en su carrito de compras</strong>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
+    }
+    <form asp-action="AgregarCarrito" style="margin-left:50%">
+        <div class="card col-12">
+            <div class="card-body">
+                <h3 class="card-title">@ViewData["Nombre"]</h3>
+                <div>
+                    <label class="form-group text-center">Cantidad </label>
+                    <br />
+
+                    <input class="form-group" type="number" asp-for="Cantidad" max="@ViewBag.Stock" value="" required/>
+                    <br />
+                    <input value="@ViewData["Id"]" asp-for="IdProducto" hidden type="number" class="form-group" />
+                    <label class="form-group text-center">Precio Por Unidad </label>
+                    <br />
+                    <input class="form-group" disabled value="@ViewData["PrecioVenta"]" asp-for="PrecioUnidad" />
+
+                </div>
+            </div>
+            <br />
+            <div class="card-footer text-center">
+                <input type="submit" value="Agregar a Carrito" />
+            </div>
+
+
+        </div>
+    </form>
+</body>
+

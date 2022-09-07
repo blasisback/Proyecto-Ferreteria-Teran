@@ -1,0 +1,93 @@
+﻿@model IEnumerable<WebApp_BotoneraLozanoSAC.Models.DetalleVenta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Mantenimiento</a></li>
+        <li class="breadcrumb-item"><a asp-action="Index">Usuarios</a></li>
+        <li class="breadcrumb-item"><a href="#">Detalle</a></li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+              <h5> Detalle Ventas </h5> 
+            </div>
+             <div class="card-body">
+                 <h1 class="align-content-center"> #Documento: @ViewBag.Codigo</h1>
+ <div class="row mt-3">
+                    <div class="col-sm-12">
+                        <table id="tbdata" class="table-success table table-striped table-bordered nowrap compact" style="width:100%">                            
+                            <thead>
+        <tr>
+            <th>
+                Id detalle
+            </th>
+            <th>
+                Nombre Producto
+            </th>
+            <th>
+                Codigo Venta
+            </th>
+            <th>
+                Precio
+            </th>
+            <th>
+                Cantidad
+            </th>
+            <th>
+                Importe
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.FechaRegistro)
+            </th>
+        
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdDetalleVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProductoNavigation.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdVentaNavigation.Codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioUnidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImporteTotal)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+            
+            
+        </tr>
+        }
+    </tbody>
+</table>     
+   
+</div>
+</div>
+</div>
+</div>
+
+

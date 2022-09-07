@@ -1,0 +1,44 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Permisos
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<body >
+<h1>Registrar Permisos</h1>
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Permisos</a></li>
+        <li class="breadcrumb-item"><a href="#">Registrar</a></li>
+    </ol>
+</nav>
+<hr />
+
+        <form asp-action="Create" class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group col-6">
+                <label asp-for="IdRol" class="control-label">Id Rol</label>
+                <select asp-for="IdRol" placeholder="Escribir un rol "  class="form-control" asp-items="ViewBag.IdRol"></select>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Activo" class="control-label font-weight-bold">Estado</label>
+                <select class="form-select form-select-sm model" asp-for="Activo">
+                    <option value="True">Activo</option>
+                    <option value="False">No Activo</option>
+                </select>
+                <span asp-validation-for="Activo" class="text-danger"></span>
+            </div>
+             <div class="form-group d-flex justify-content-between-">
+                  <a asp-action="Index" class="btn btn-outline-info btn-lg mt-5">Cancelar</a> 
+                
+                         <div style="margin-left : 80%">
+                    <input type="submit" value="Registrar" class="btn btn-outline-info btn-lg mt-5"  />
+                    </div>
+            </div>
+        </form>
+        <</body>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

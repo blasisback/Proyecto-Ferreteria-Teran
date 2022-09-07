@@ -1,0 +1,146 @@
+﻿@model IEnumerable<WebApp_BotoneraLozanoSAC.Models.Kardex>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<body>
+
+
+    <br />
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Kardex</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Lista Kardex</li>
+        </ol>
+    </nav>
+
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header bg-dark text-white">
+                    Listado de Entradas y Salidas de Productos
+                </div>
+                <br />
+                <form asp-action="Index" method="get">
+
+                    <div class="text-center">
+
+
+                        <input class="p-2 form-control col-4" type="text" name="EA" value="1" hidden />
+
+                        <input class="btn btn-success col-4" style="height:100%;" type="submit" value="Entrada" />
+                    </div>
+
+
+                </form>
+                <p></p>
+                <form asp-action="Index" method="get">
+                    <div class="text-center">
+                        <input class="p-2 form-control col-4" type="text" name="EA" value="0" hidden />
+                        <input class="btn btn-danger  col-4" style="height:100%;" type="submit" value="Salida" />
+                    </div>
+                </form>
+                <br />
+                <form asp-action="Index" method="get">
+
+                    <div class="form-actions no-color d-flex text-center justify-content-center align-items-center">
+
+                        <a class="btn btn-primary mr-auto p-2 " asp-action="Index">Mostrar todo</a>
+
+                        <input class="p-2 form-control col-md-4" style="height: 35px;border-color:black" type="date" name="date" value="" />
+                        <input class="p-1 btn btn-success btn-lg m-2" style="height:100%;" type="submit" value="Buscar" />
+
+                    </div>
+
+                </form>
+
+
+                <table class="table-success table table-striped table-bordered nowrap compact" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>
+                                Fecha
+                            </th>
+                            <th>
+                                Salida
+                            </th>
+                            <th>
+                                Entrada
+                            </th>
+                            <th>
+                                Saldo
+                            </th>
+                            <th>
+                                Precio Venta
+                            </th>
+                            <th>
+                                Precio compra
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Total)
+                            </th>
+                            <th>
+                                Nombre Producto
+                            </th>
+                            <th>
+                                Documento
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.FechaRegistro)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.SalidaCantidad)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.EntradaCantidad)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.SaldoCantidad)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.PrecioUnitarioVenta)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.PrecioUnitarioCompra)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Total)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.IdProductoNavigation.Nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DocumentoNavigation.Codigo)
+                                </td>
+                            </tr>
+                        }
+                        <tr>
+                            <td>
+                                Totales:
+                            </td>
+                            <td>
+                                @ViewBag.sumKardexSalida
+                            </td>
+                            <td>
+                                @ViewBag.sumKardexEntrada
+                            </td>
+
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+
+    <
+</body>

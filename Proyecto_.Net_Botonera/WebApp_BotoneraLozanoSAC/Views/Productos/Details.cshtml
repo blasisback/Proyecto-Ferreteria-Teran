@@ -1,0 +1,97 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Producto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<body  >
+
+    <br />
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Productos</a></li>
+        <li class="breadcrumb-item"><a href="#">Detalles</a></li>
+    </ol>
+</nav>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    Detalles de Productos
+                </div>
+
+                <div class="card-body">
+
+<div>
+    <hr />
+    <dl class="row justify-content-center">
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            ID Producto
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.IdProducto)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Descripción
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Estado
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Fecha de Registro
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Categoría
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.IdCategoriaNavigation.IdCategoria)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Precio de Compra
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.PrecioUnidadCompra)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Precio de Venta
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.PrecioUnidadVenta)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Stock)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Stock)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            URL Imagen
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.ImagenUrl)
+        </dd>
+    </dl>
+</div>
+</div>
+</div>
+</div>
+    </div>
+</body>

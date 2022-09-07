@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WebApp_BotoneraLozanoSAC.Models.Categoria>
+
+@{
+    ViewData["Title"] = "ReporteCategoria";
+}
+
+<h1>ReporteCategoria</h1>
+ <div class="row mb-2">
+                    <div class="col-sm-12">
+                        <button class="btn btn-info float-left" onclick="printData()">
+                            <i class="fas fa-print"></i> Imprimir
+                        </button>
+                    </div>
+                </div>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table  id="tbdata" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Activo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaRegistro)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Activo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+          
+        </tr>
+}
+    </tbody>
+</table>
+<script>
+function printData() {
+
+
+    var divToPrint = document.getElementById("tbdata" );
+
+    var style = "<style>";
+    style= style +"table{ background-color:green}";
+    style = style + "table {width: 100%;font: 17px Calibri;}";
+    style = style + "table, th, td {border: solid 1px #DDD; border-collapse: collapse;";
+    style = style + "padding: 2px 3px;text-align: center;}";
+    style = style + "</style>";
+
+    newWin = window.open("");
+
+
+    newWin.document.write(style);
+    newWin.document.write("<h3>Reporte de Categoria por tienda</h3>");
+    newWin.document.write(divToPrint.outerHTML);
+    newWin.print();
+    newWin.close();
+}
+</script>

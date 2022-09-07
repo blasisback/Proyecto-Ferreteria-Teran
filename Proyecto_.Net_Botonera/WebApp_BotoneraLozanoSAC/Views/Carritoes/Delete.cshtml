@@ -1,0 +1,70 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Carrito
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Mantenimiento</a></li>
+        <li class="breadcrumb-item"><a asp-action="Index">Carrito</a></li>
+        <li class="breadcrumb-item"><a href="#">Eliminar</a></li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header bg-danger text-white">
+              ¿Está seguro de Eliminar el Producto del Carrito de Compras?
+            </div>
+             <div class="card-body">
+<hr />
+<div><form asp-action="Delete">
+    <dl class="row justify-content-center">
+    
+    <dl class="row justify-content-center">   
+        <dt class="col-sm-4 text-center ">
+            @Html.DisplayNameFor(model => model.IdProductoNavigation.Nombre)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.IdProductoNavigation.Nombre)
+        </dd>
+        <dt class="col-sm-4 text-center ">
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Cantidad)
+        </dd>
+        <dt class="col-sm-4 text-center ">
+            Precio unidad
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.PrecioUnidad)
+        </dd>
+        <dt class="col-sm-4 text-center ">
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+
+    </dl>
+    
+     
+             <dt class="col-sm-4 text-center ">
+                <input type="hidden" asp-for="IdCarrito" />
+        <input type="submit" value="Eliminar" class="btn btn-danger btn-lg mt-5" />
+        </dt>
+                 <dd class="col-sm-5 text-secondary">
+                       
+                   <a asp-action="Index" class="btn btn-outline-info btn-lg mt-5">Cancelar</a> 
+ </dd>
+            </dl>
+            </form>
+    </div>
+</div>
+</div>
+</div>
+</div>

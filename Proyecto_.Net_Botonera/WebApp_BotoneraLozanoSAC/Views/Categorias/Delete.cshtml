@@ -1,0 +1,71 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Categoria
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<body >
+
+<br />
+
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Categoria</a></li>
+        <li class="breadcrumb-item"><a href="#">Eliminar</a></li>
+    </ol>
+</nav>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header bg-danger text-white">
+                    ¿Estás seguro de Eliminar la Categoria?
+                </div>
+
+                <div class="card-body">
+
+<div>
+    
+    <dl class="row">
+        <dt class="col-sm-2">
+            Id Categoria
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdCategoria)
+        </dd>
+        <dt class="col-sm-2">
+            Descripcion Categoria
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-sm-2">
+
+           Estado
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+        
+    </dl>
+     
+    <form asp-action="Delete">
+         <div class="form-group d-flex justify-content-between-">
+                <input type="hidden" asp-for="IdCategoria" />
+         
+        <input type="submit" value="Eliminar" class="btn btn-danger btn-lg mt-5" />
+       
+                
+                         <div style="margin-left : 10%">
+                   <a asp-action="Index" class="btn btn-outline-info btn-lg mt-5">Cancelar</a> 
+                    </div>
+            </div>
+    </form>
+</div>
+</div>
+</div>
+</div>
+    </div>
+</body>

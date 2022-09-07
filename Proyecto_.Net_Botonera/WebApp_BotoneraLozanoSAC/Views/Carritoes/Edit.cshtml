@@ -1,0 +1,72 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Carrito
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<br />
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Mantenimiento</a></li>
+        <li class="breadcrumb-item"><a asp-action="Index">Carrito</a></li>
+        <li class="breadcrumb-item"><a href="#">Editar</a></li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+                Editar la Cantidad de los Productos
+            </div>
+            <div class="card-body">
+                <hr />
+                <div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-4">
+                            <form asp-action="Edit">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <input type="hidden" asp-for="IdCarrito" />
+                                <div class="form-group " hidden>
+                                    <label asp-for="IdProducto" class="control-label">ID Producto</label>
+                                    <select asp-for="IdProducto" class="form-control" asp-items="ViewBag.IdProducto"></select>
+                                    <span asp-validation-for="IdProducto" class="text-danger"></span>
+                                </div>
+                                <div class="form-group ">
+                                    <label class="control-label">Nombre del Producto</label>
+                                    <input class="form-control" value="@ViewBag.Nombre" disabled />
+
+
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Cantidad" class="control-label"></label>
+                                    <input asp-for="Cantidad" class="form-control" />
+                                    <span asp-validation-for="Cantidad" class="text-danger"></span>
+                                </div>
+                                <div class="form-group" hidden>
+                                    <label asp-for="PrecioUnidad" class="control-label"></label>
+                                    <input asp-for="PrecioUnidad" class="form-control" />
+                                    <span asp-validation-for="PrecioUnidad" class="text-danger"></span>
+                                </div>
+                                <div class="form-group" hidden>
+                                    <label asp-for="Total" class="control-label"></label>
+                                    <input asp-for="Total" class="form-control" />
+                                    <span asp-validation-for="Total" class="text-danger"></span>
+                                </div>
+                                <div class="form-group d-flex justify-content-between-">
+                                    <a asp-action="Index" class="btn btn-outline-info btn-lg mt-5">Cancelar</a>
+
+                                    <div style="margin-left : 10%">
+                                        <input type="submit" value="Guardar Cambios" class="btn btn-outline-info btn-lg mt-5" />
+
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

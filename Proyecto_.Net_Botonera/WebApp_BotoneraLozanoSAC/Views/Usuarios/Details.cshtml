@@ -1,0 +1,103 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Usuario
+
+@{
+    ViewData["Title"] = "Detalle_Usuarios";
+}
+
+<body>
+
+<br />
+
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Usuarios</a></li>
+        <li class="breadcrumb-item"><a href="#">Detalles </a></li>
+    </ol>
+</nav>
+
+
+ <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    Detalles del Usuario
+                </div>
+
+                <div class="card-body">
+
+<div>
+    
+    <dl class="row justify-content-center">
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Nombres)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Nombres)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Apellidos)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Apellidos)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Correo)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Correo)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Clave)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Clave)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Estado
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Tipo de Documento
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.TipoDocumento)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Numero Documento
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.NumeroDocumento)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+        
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Rol
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.IdRolNavigation.Descripcion)
+        </dd>
+    </dl>
+</div>
+</div>
+</div>
+</div>
+    </div>
+
+
+</body>

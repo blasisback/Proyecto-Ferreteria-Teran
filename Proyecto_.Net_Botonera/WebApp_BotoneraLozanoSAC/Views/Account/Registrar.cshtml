@@ -1,0 +1,145 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Usuario
+
+@{
+    ViewData["Title"] = "Registrar";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+<br />
+<h4 class="justify-content-center" style="color:white;margin-left:6%">Crear nuevo Usuario</h4>
+
+<hr />  
+
+<div  class="row justify-content-center ">
+  <div class="row justify-content-center ">
+    <img  width="65%" height="60%"  src="~/vector-users-icon.jpg" style="border-radius: 50%; margin-top:80px;" />
+    </div>
+    <div class="col-md-6 mt-4">
+        @if (ViewBag.user==1)
+{
+    <div class="alert alert-danger" role="alert">
+     El Correo ya tiene un usuario registrado!!
+</div>
+}
+        <form asp-action="Registrar" class="formulario ">
+            <div class="row"  style="color:white">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row col-10">
+                    <div class="form-group col-6">
+                        <label asp-for="Nombres" class="control-label mt-3"></label>
+                        <input asp-for="Nombres" class="form-control" placeholder="Ecribir tu nombre"/>
+                        <span asp-validation-for="Nombres" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-6">
+                        <label asp-for="Apellidos" class="control-label mt-3"></label>
+                        <input asp-for="Apellidos" class="form-control" placeholder="Escribir tu apellido"/>
+                        <span asp-validation-for="Apellidos" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row col-10">
+                    <div class="form-group col-6">
+                        <label asp-for="Telefono" class="control-label">Teléfono</label>
+                        <input asp-for="Telefono" class="form-control" placeholder="Escribir tu teléfono"/>
+                        <span asp-validation-for="Telefono" class="text-danger"></span>
+                    </div>
+                     <div class="form-group col-6">
+                    <label asp-for="Direccion" class="control-label">Dirección</label>
+                    <input asp-for="Direccion" class="form-control" placeholder="Escribir tu dirección" />
+                    <span asp-validation-for="Direccion" class="text-danger"></span>
+                </div>
+                    <div class="form-group col-6">
+                        <label asp-for="TipoDocumento" class="control-label">Tipo Documento</label>
+                        <select class="form-control " asp-for="TipoDocumento">
+                            <option value="DNI">DNI</option>
+                            <option value="Carnet Extranjeria">Carnet Extranjeria</option>
+                            <option value="RUC">RUC</option>
+                        </select>
+                        <span asp-validation-for="TipoDocumento" class="text-danger"></span>
+                    </div>
+                     
+                    <div class="form-group col-6">
+                        <label asp-for="NumeroDocumento" class="control-label">Número Documento</label>
+                        <input asp-for="NumeroDocumento" class="form-control"placeholder="Escribir tu número de documento" />
+                        <span asp-validation-for="NumeroDocumento" class="text-danger"></span>
+                    </div>
+                   
+                    
+                 <div class="form-group col-6">
+                        <label asp-for="Correo" class="control-label" >@ViewData["Error1"]</label>
+
+                        <input asp-for="Correo" class="form-control"placeholder="Escribir tu correo" />
+                        <span asp-validation-for="Correo" class="text-danger"></span>
+                    </div>
+                <div class="form-group col-6">
+                    <label asp-for="Clave" class="control-label">Contraseña</label>
+                     <div class="input-group">
+                    <input id="txtPassword" asp-for="Clave" class="form-control" type="password" placeholder="Escribir tu clave"/>
+                     <div class="input-group-append">
+                <button id="show_password" class="btn btn-primary" type="button" onclick="mostrarPassword()"> <span class="fa fa-eye-slash icon"></span> </button>
+                </div>
+                    <span asp-validation-for="Clave" class="text-danger"></span>
+                    </div>
+                </div>
+                </div>
+                 <div  class="form-group col-6">
+                    <input asp-for="IdRol" class="form-control" value="2" type="hidden" />
+                </div>
+            </div>
+             <div class="form-group d-flex justify-content-between">
+
+                    <input type="submit" value="Crear" class="btn btn-outline-light btn-lg mt-5" />
+                    <div class="col-5 text">
+                    <a asp-action="Login" class="btn btn-outline-info btn-lg mt-5">Cancelar</a>
+                    </div>
+                </div>
+        </form>
+    </div>
+
+</div>
+ 
+<hr/>
+ <footer style="  position: relative;
+            /* Altura total del footer en px con valor negativo */
+            margin-top: 290px;
+            /* Altura del footer en px. Se han restado los 5px del margen
+               superior mas los 5px del margen inferior
+            */
+            height: 40px;
+            padding:5px 0px;
+            clear: both;
+           
+            text-align: center;
+            color: #fff;
+">
+    <div class="col-sm-12 text-center">
+        <p class="text-white mb-0">&copy; @DateTime.Now.Year - Botonera Lozano SAC, Lima - Perú</p>
+    </div>
+</footer>
+</body>
+
+<script type="text/javascript">
+function mostrarPassword(){
+		var cambio = document.getElementById("txtPassword");
+		if(cambio.type == "password"){
+			cambio.type = "text";
+			$('.icon').removeClass('fa fa-eye-slash').addClass('fa fa-eye');
+		}else{
+			cambio.type = "password";
+			$('.icon').removeClass('fa fa-eye').addClass('fa fa-eye-slash');
+		}
+	} 
+
+    </Script>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

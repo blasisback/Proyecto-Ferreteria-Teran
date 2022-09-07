@@ -1,0 +1,101 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Producto
+
+@{
+    ViewData["Title"] = "Editar";
+}
+@if (ViewBag.error== 1)
+        {
+            <div class="alert alert-danger danger-dismissible fade show" role="alert">
+                <strong>El precio Compra no debe exceder el de la venta!!!</strong>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+        }
+<body>
+
+<br />
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Productos</a></li>
+        <li class="breadcrumb-item"><a href="#">Editar</a></li>
+    </ol>
+</nav>
+
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header bg-info text-white">
+                    Editar Productos
+                </div>
+
+                <div class="card-body">
+
+        <form asp-action="Edit" class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdProducto" />
+            <div class="form-group col-6">
+                <label asp-for="ImagenUrl" class="control-label font-weight-bold"></label>
+                <input asp-for="ImagenUrl" class="form-control" />
+                <span asp-validation-for="ImagenUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Nombre" class="control-label font-weight-bold"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Descripcion" class="control-label font-weight-bold"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="IdCategoria" class="control-label font-weight-bold">Nombre Categoría</label>
+                <select asp-for="IdCategoria" class="form-select form-select-sm model"  asp-items="ViewBag.IdCategoria"></select>
+                <span asp-validation-for="IdCategoria" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="PrecioUnidadCompra" class="control-label font-weight-bold">Precio de Compra</label>
+                <input asp-for="PrecioUnidadCompra" class="form-control" />
+                <span asp-validation-for="PrecioUnidadCompra" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="PrecioUnidadVenta" class="control-label font-weight-bold">Precio de Venta</label>
+                <input asp-for="PrecioUnidadVenta" class="form-control" />
+                <span asp-validation-for="PrecioUnidadVenta" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <label asp-for="Stock" class="control-label font-weight-bold">Stock</label>
+                <input asp-for="Stock" class="form-control" />
+                <span asp-validation-for="Stock" class="text-danger"></span>
+            </div>
+          <div class="form-group col-6">
+                <label asp-for="Activo" class="control-label font-weight-bold">Estado</label>
+                <select class="form-select form-select-sm model" asp-for="Activo">
+                    <option value="True">Activo</option>
+                    <option value="False">No Activo</option>
+                </select>
+                <span asp-validation-for="Activo" class="text-danger"></span>
+            </div>
+          <div class="form-group d-flex justify-content-between-">
+                  <a asp-action="Index" class="btn btn-outline-info btn-lg mt-5">Cancelar</a> 
+                
+                      <div style="margin-left : 72%">
+                    <input type="submit" value="Guardar Cambios"  class="btn btn-outline-info btn-lg mt-5" />
+                    
+            </div>
+            </div>
+
+        </form>
+   </div>
+            </div>
+        </div>
+    </div>
+</body>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

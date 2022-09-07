@@ -1,0 +1,63 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Rol
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<body >
+
+<br />
+
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Roles</a></li>
+        <li class="breadcrumb-item"><a href="#">Editar </a></li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+                Editar Rol
+            </div>
+
+            <div class="card-body">
+
+        <form asp-action="Edit" class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdRol" />
+            <div class="form-group col-6">
+                <label asp-for="Descripcion" class="control-label font-weight-bold">Nombre Rol</label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+           <div class="form-group col-6">
+                <label asp-for="Activo" class="control-label font-weight-bold">Estado</label>
+                <select class="form-select form-select-sm model" asp-for="Activo">
+                    <option value="True">Activo</option>
+                    <option value="False">No Activo</option>
+                </select>
+                <span asp-validation-for="Activo" class="text-danger"></span>
+            </div>
+            <div class="form-group d-flex justify-content-between-">
+                  <a asp-action="Index" class="btn btn-outline-info btn-lg mt-5">Cancelar</a> 
+                
+                      <div style="margin-left : 72%">
+                    <input type="submit" value="Guardar Cambios"  class="btn btn-outline-info btn-lg mt-5" />
+                    
+            </div>
+            </div>
+        </form>
+        </div>
+            </div>
+        </div>
+    </div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</body>

@@ -1,0 +1,91 @@
+﻿@model IEnumerable<WebApp_BotoneraLozanoSAC.Models.Permisos>
+
+@{
+    ViewData["Title"] = "Index";
+    
+}
+
+<body  >
+    
+<br />
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Mantenimiento</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Permisos</li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header bg-dark text-white">
+                Lista de Permisos
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <a asp-action="Create"><input type="submit" value="Agregar Nuevo" class="btn btn-sm btn-success" onclick="abrirPopUpForm(null)"><i class="fa fa-plus" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <hr />
+                <form asp-action="Index" method="get">
+                    <div class="form-actions no-color d-flex text-center justify-content-center align-items-center">
+                        <a class="btn btn-primary mr-auto p-2 " asp-action="Index">Todos los registros</a>
+                        <input class="p-2 form-control col-md-4" type="text" name="searchString" value="@ViewData["CurrentFilter"]" />
+                        <input class="p-1 btn btn-success btn-lg m-2" style="height=100%;" type="submit" value="Buscar " />
+                    </div>
+     
+                </form>
+                <div class="row mt-3">
+                    <div class="col-sm-12">
+                        <table id="tbdata" class="table-success table table-striped table-bordered nowrap compact" style="width:100%">   
+                            <thead>
+        <tr>
+            <th>
+               Estado
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaRegistro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRolNavigation)
+            </th>
+            <th  class="text-center"> Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Activo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdRolNavigation.IdRol)
+            </td>
+            <td>
+                <button type="button" class="btn btn-sm btn-primary"><a style="color:white" asp-action="Edit" asp-route-id="@item.IdPermisos"><i class="bi bi-pencil"></i></a></button> |
+                <button type="button" class="btn btn-sm btn-success"><a style="color:white" asp-action="Details" asp-route-id="@item.IdPermisos"><i class="bi bi-card-list"></i></a></button> |
+                <button type="button" class="btn btn-sm btn-danger"><a style="color:white" asp-action="Delete" asp-route-id="@item.IdPermisos"><i class="bi bi-trash-fill"></i></a></button>
+            </td>
+            <td  class="text-center">
+                <a asp-action="Edit" asp-route-id="@item.IdPermisos">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdPermisos">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPermisos">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                </div>
+            </div>
+        </div>
+ 
+</body>

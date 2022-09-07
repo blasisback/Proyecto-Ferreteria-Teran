@@ -1,0 +1,51 @@
+﻿@model WebApp_BotoneraLozanoSAC.Models.Rol
+
+@{
+    ViewData["Title"] = "Details";
+}
+<body >
+
+<br />
+
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">Mantenimiento</li>
+        <li class="breadcrumb-item"><a asp-action="Index">Roles</a></li>
+        <li class="breadcrumb-item"><a href="#">Detalles</a></li>
+    </ol>
+</nav>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    Detalles del Rol
+                </div>
+
+                <div class="card-body">
+
+<div>
+
+    <dl class="row justify-content-center">
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            Nombre Rol
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-sm-4 text-center text-dark bg-warning">
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+        <dd class="col-sm-5 text-secondary">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+        
+    </dl>
+</div>
+</div>
+</div>
+</div>
+    </div>
+
+</body>

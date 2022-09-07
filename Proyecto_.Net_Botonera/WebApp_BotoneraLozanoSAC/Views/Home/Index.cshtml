@@ -1,0 +1,96 @@
+﻿@model IEnumerable<WebApp_BotoneraLozanoSAC.Models.Producto>
+
+@{
+    ViewBag.Title = "BLZ Home";
+    @if (ViewBag.Layout==1)
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    @if (ViewBag.Layout==0)
+    {
+        Layout = "~/Views/Shared/_LayoutUsuario.cshtml";
+    }
+}
+
+<body>  
+@*
+    @section scripts{
+        <script src="@Url.Content("~/Scripts/Views/Home_Index.js")" type="text/javascript"></script>
+    }*@
+    
+    <div class="container my-3">
+        <div class="text-center" style="color: #e17d7b" font-style: oblique; font-weight:bold; font-size:3em;
+             font-family: cursive; }">
+            <h2 class="display-4 fw-bolder"><span><em>Nuestro Catálogo</em></span></h2>
+        </div>
+
+        <br />
+        
+        @if (ViewBag.Valor== 1)
+        {
+            <div class="alert alert-success success-dismissible fade show" role="alert">
+                <strong>El producto se agregó exitosamente!!!</strong>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+
+        }
+        <form asp-action="Index" method="get">
+            <div class="form-actions no-color d-flex text-center justify-content-center align-items-center">                
+                <input class="p-2 form-control col-md-8" type="text" name="searchString" value="@ViewData["CurrentFilter"]" />
+                <input class="p-1 btn btn-success btn-lg m-2" style="height:100%;" type="submit" value="Buscar" />
+            </div>
+        </form>
+
+        <div class="py-2">
+            <div class="container px-2 px-lg-2 mt-5">
+                <div id="catalogo-productos" class="row gx-4 gx-ltg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                    @if(ViewBag.Producto==0){
+                        <p><strong><i class="bi bi-search"></i> No se encontraron resultados en su búsqueda</strong></p>
+                    }
+                    @if (ViewBag.Producto == 1)
+                    {
+
+                        @foreach (var item in Model)
+                        {
+
+                            <div class="card col-3" style="background-color:white; margin:16px">
+                                <div class="card-header" style="height:45%">
+                                    <img src="@Html.DisplayFor(modelItem => item.ImagenUrl)" class="card-img-top" style="height:100%" />
+                                </div>
+                                <div class="card-body">
+                                    <h5 style="color:purple" class="card-title">@Html.DisplayFor(modelItem => item.Nombre)</h5>
+                                    <hr />
+                                    <p class="card-title" style="color:blue">@Html.DisplayFor(modelItem => item.Descripcion)</p>
+                                    <hr/>
+                                    <div class="text-center">
+                                    <p class="card.text" style="color:rebeccapurple"> Precio: S/. @Html.DisplayFor(modelItem => item.PrecioUnidadVenta)</p>
+                                    </div>
+                                </div>
+                                <br />
+                                <div class="card-footer text-center">
+                                    <a class="btn btn-info" asp-action="AgregarCarrito" asp-route-id="@item.IdProducto">Ir a comprar</a>
+                                </div>
+                            </div>
+                        }
+
+                    }
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+    <br />
+
+
+    
+</body>
+
+

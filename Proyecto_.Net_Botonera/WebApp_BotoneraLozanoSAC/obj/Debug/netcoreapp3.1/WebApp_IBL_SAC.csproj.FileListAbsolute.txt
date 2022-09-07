@@ -1,0 +1,688 @@
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.exe
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.deps.json
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.runtimeconfig.json
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.runtimeconfig.dev.json
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.pdb
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.pdb
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.AssemblyReference.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.AssemblyInfoInputs.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.AssemblyInfo.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.CoreCompileInputs.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.MvcApplicationPartsAssemblyInfo.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorAssemblyInfo.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorAssemblyInfo.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\staticwebassets\WebApp_IBL_SAC.StaticWebAssets.Manifest.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.TagHelpers.input.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.TagHelpers.output.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorCoreGenerate.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Recuperar.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Registrar.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Verificar.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Confirmacion.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\CrearBoleta.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Pago.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\RestarProductos.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\ReporteCategoria.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agregar.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\AgregarCarrito.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductoVista.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reseña.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\agregar.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Create.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Delete.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Details.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Edit.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Index.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorTargetAssemblyInfo.cache
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorTargetAssemblyInfo.cs
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.pdb
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.CopyComplete
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.dll
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.pdb
+D:\IDAT 2021\IV CICLO\METODOLOGÍA ÁGIL\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.genruntimeconfig.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.exe
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.deps.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.runtimeconfig.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.runtimeconfig.dev.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.AssemblyReference.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.AssemblyInfoInputs.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.AssemblyInfo.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.CoreCompileInputs.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorAssemblyInfo.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorAssemblyInfo.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\staticwebassets\WebApp_IBL_SAC.StaticWebAssets.Manifest.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\staticwebassets\WebApp_IBL_SAC.StaticWebAssets.xml
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp_IBL_SAC.styles.css
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.TagHelpers.input.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.TagHelpers.output.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorCoreGenerate.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Recuperar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Registrar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Verificar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Confirmacion.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\CrearBoleta.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Pago.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\RestarProductos.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\ReporteCategoria.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agregar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\AgregarCarrito.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductoVista.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reseña.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\agregar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorTargetAssemblyInfo.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorTargetAssemblyInfo.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.CopyComplete
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL METODOLOGÏA\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.genruntimeconfig.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.exe
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.deps.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.runtimeconfig.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.runtimeconfig.dev.json
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.AssemblyReference.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.AssemblyInfoInputs.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.AssemblyInfo.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.CoreCompileInputs.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorAssemblyInfo.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorAssemblyInfo.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\staticwebassets\WebApp_IBL_SAC.StaticWebAssets.Manifest.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\staticwebassets\WebApp_IBL_SAC.StaticWebAssets.xml
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp_IBL_SAC.styles.css
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.TagHelpers.input.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.TagHelpers.output.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorCoreGenerate.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Recuperar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Registrar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Verificar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Confirmacion.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\CrearBoleta.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\Pago.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Carritoes\RestarProductos.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\ReporteCategoria.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agregar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\AgregarCarrito.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductoVista.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Reseña.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Kardexes\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Permisos\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\agregar.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Create.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Delete.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Details.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Edit.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Index.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorTargetAssemblyInfo.cache
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.RazorTargetAssemblyInfo.cs
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.Views.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.csproj.CopyComplete
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.dll
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.pdb
+C:\Users\blasi\Downloads\Herramientas-Final\PROYECTO FINAL\WebApp_BotoneraLozanoSAC\obj\Debug\netcoreapp3.1\WebApp_IBL_SAC.genruntimeconfig.cache
